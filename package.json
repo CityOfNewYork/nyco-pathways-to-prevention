@@ -24,6 +24,7 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "gatsby-cli": "^2.8.28",
     "prettier": "^1.19.1"
   },
   "keywords": [
